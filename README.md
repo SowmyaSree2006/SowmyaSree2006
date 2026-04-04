@@ -49,15 +49,12 @@
 * Implemented TF-IDF + Naive Bayes and RoBERTa models
 
 
-
-
 ---
 
 ##  Achievements & Certifications
 
 * Java SE 17 Developer Certification (Oracle)
 
----
 
 
 
