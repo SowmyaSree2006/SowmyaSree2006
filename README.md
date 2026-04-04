@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Research+Intern;Full+Stack+Developer;Passionate+about+AI+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Research+Intern;Passionate+about+AI+Innovation" />
 </p>
 
 ---
