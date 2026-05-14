@@ -22,9 +22,6 @@
 #  Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,java,js,python,php,flask,opencv,apache,mysql,sqlite,github,tensorflow,pytorch,sklearn" />
-</p>
-
-<p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,canva,adobe" />
 </p>
 
