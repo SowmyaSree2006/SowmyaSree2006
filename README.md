@@ -1,7 +1,5 @@
 # <h1 align="center">Hi, I'm Sowmya Sree Challapalli</h1>
 
-<h3 align="center">B.Tech CSE (AI & ML) Student </h3>
-
 ---
 
 <p align="center">
@@ -20,7 +18,7 @@
 ---
 
 #  Tech Stack:
-<p align="left">
+<p align="centre">
   <img src="https://skillicons.dev/icons?i=html,java,js,python,php,flask,opencv,apache,mysql,sqlite,github,tensorflow,pytorch,sklearn" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,canva,adobe" />
 </p>
