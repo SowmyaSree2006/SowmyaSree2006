@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I am Sowmya Sree Challapalli</h1>
+<h1 align="center">Hi, I am Sowmya Sree Challapalli</h1>
 
 <h3 align="center">
 Computer Science Engineering Student specializing in Artificial Intelligence & Machine Learning
@@ -6,7 +6,7 @@ Computer Science Engineering Student specializing in Artificial Intelligence & M
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+%26+Machine+Learning;Research+Intern;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision" />
 </p>
----
+
 
 ## About Me
 
