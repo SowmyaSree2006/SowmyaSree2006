@@ -1,18 +1,15 @@
 <h1 align="center">Sowmya Sree Challapalli</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • AI & ML Specialization 
+Computer Science Engineering Student specializing in Artificial Intelligence & Machine Learning
 </h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+%26+Machine+Learning;Research+Intern;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision" />
 </p>
-
 ---
 
 ## About Me
 
-- B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning
 - Research Intern working on AI-based photovoltaic power forecasting
 - Interested in Machine Learning, Deep Learning, Computer Vision, and AI Research
 - Focused on developing intelligent systems and data-driven solutions
