@@ -39,8 +39,6 @@ Computer Science Engineering Student specializing in Artificial Intelligence & M
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SowmyaSree2006&theme=default&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
-
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SowmyaSree2006&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/>
 </p>
 
